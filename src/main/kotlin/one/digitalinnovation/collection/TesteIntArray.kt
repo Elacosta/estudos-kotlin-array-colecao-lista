@@ -25,7 +25,7 @@ fun main() {
         println(values[index])
     }
     println("------------")
-    values.sort() //recurso de um array que faz o array ir do menos para o maior
+    values.sort() //recurso de um array que faz o array ir do menor para o maior
     for (valor in values) {
         println(valor)
     }
